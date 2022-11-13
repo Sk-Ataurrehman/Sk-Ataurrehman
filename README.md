@@ -8,8 +8,6 @@
 
 - 📫 How to reach me: shaikhataurrehman0@gmail.com
 
-- ⚡ Fun fact: JavaScript over Python
-
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/ataurrehman-shaikh/)
