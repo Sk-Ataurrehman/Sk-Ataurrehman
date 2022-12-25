@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋, I am Ataur Rehman Shaikh.</h1>
-<h3 align="center">An Backend Web Developer and a Keen Learner.</h3>
+<h3 align="center">A Backend Web Developer and a Keen Learner.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sk-Ataurrehman" alt="Ataurrehman Shaikh " /> </p>
 
 - 🔭 I’m currently working on Web and API Development (Backend)
